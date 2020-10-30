@@ -4,3 +4,7 @@
 \.travis\.yml
 
 CITATION.bib
+^DESCRIPTION\.bak$
+^\.travis\.yml$
+^\./\.travis\.yml\.bak$
+^appveyor\.yml$
